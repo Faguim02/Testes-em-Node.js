@@ -1,6 +1,6 @@
 # Testes com Node e TypeScript
 
-> Testar nosso codigo durante o desenvolvimento, traz a segurança que nosso codigo está funcionando perfeitamente.
+> Testar nosso codigo durante o desenvolvimento, traz a segurança que nosso codigo está funcionando perfeitamente e evitar problemas em produção.
 
 ## Tipos de testes
 
